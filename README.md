@@ -21,44 +21,7 @@ The solution includes:
 ---
 
 ## 📂 Project Structure
-Task/
-│── README.md
-│── run_api.bat
-│
-├── api/
-│ └── app.py
-│
-├── artifacts/
-│ ├── processed_data.csv
-│ ├── metrics.json
-│ └── model_logs.txt
-│
-├── data/
-│ └── raw/
-│ └── Case Study 1 Data.xlsx
-│
-├── deployment/
-│ ├── Dockerfile
-│ └── requirements.txt
-│
-├── models/
-│ └── final_model.pkl
-│
-├── notebooks/
-│ ├── 01_eda.ipynb
-│ └── 02_model_experiments.ipynb
-│
-├── presentation/
-│ └── CaseStudy1_Presentation.pptx
-│
-└── src/
-├── config.py
-├── preprocess.py
-├── train.py
-├── predict.py
-└── model_utils.py
-
-
+Above
 ---
 
 ## 🧹 1. Data Preprocessing
