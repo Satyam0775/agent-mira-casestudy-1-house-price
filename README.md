@@ -1,6 +1,6 @@
 # 🏡 House Price Prediction — Case Study 1 (Agent Mira)
 
-### **Author:** Satyam Singh  
+### **Author:** Satyam Kumar 
 ### **Role:** Data Science Applicant  
 
 ---
